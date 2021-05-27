@@ -1,11 +1,12 @@
 /*
-Coded by:   Emrullah Sonuç
+
+Coded by:   Emrullah SonuÃ§
             http://3mrullah.com
 
 E-mail:     esonuc@karabuk.edu.tr
             esonuc@yandex.com
 
-Paper:      Sonuç, E.
+Paper:      SonuÃ§, E.
             Binary crow search algorithm for the uncapacitated facility location problem.
             Neural Computing & Applications (2021).
 
